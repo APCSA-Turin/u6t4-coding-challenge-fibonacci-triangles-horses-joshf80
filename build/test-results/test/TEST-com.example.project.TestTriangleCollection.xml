@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.project.TestTriangleCollection" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-01-08T00:24:00" hostname="codespaces-231d40" time="0.096">
+<testsuite name="com.example.project.TestTriangleCollection" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-01-08T13:38:56" hostname="codespaces-231d40" time="0.022">
   <properties/>
-  <testcase name="testShiftTriangles()" classname="com.example.project.TestTriangleCollection" time="0.079"/>
-  <testcase name="testTotalPerimeter()" classname="com.example.project.TestTriangleCollection" time="0.003"/>
+  <testcase name="testShiftTriangles()" classname="com.example.project.TestTriangleCollection" time="0.007"/>
+  <testcase name="testTotalPerimeter()" classname="com.example.project.TestTriangleCollection" time="0.004"/>
   <testcase name="testTriangleCollection()" classname="com.example.project.TestTriangleCollection" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
